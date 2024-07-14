@@ -1,0 +1,6 @@
+{
+"No buildings adjacent":1,
+"Both sides adjacent":2,
+"East side adjacent":3,
+"West side adjacent":4
+}
