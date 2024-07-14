@@ -13,4 +13,8 @@ Cet outil permet de comparer différents scénarios de consommation électrique 
 - la présence d'une piscine ou d'un spa.  
   
 Les modèles utilisés dans cette application pour identifier la consommation électrique journalière et les postes de consommation ont été entraînés sur base du jeu de données synthétiques dont la référence est la suivante:  
-Neale, A., Kummert, M., & Bernier, M. (2020). Development of a stochastic virtual smart meter data set for a residential building stock–methodology and sample data. Journal of Building Performance Simulation, 13(5), 583-605.
+Neale, A., Kummert, M., & Bernier, M. (2020). Development of a stochastic virtual smart meter data set for a residential building stock–methodology and sample data. Journal of Building Performance Simulation, 13(5), 583-605.  
+    
+L'article se trouve également [ici](https://www.tandfonline.com/doi/abs/10.1080/19401493.2020.1800096).  
+  
+**Note:** cette application est un prototype d'outil d'aide à la décision. Par conséquent, l'auteur ne saurait être tenu responsable de dommages subis par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
