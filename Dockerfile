@@ -18,8 +18,8 @@ COPY json/ json/
 COPY models/ models/
 COPY weather/ weather/
 
-# Expose the port that Streamlit will run on
-EXPOSE 8501
+# Expose the port that Streamlit will run on - Expose is not supported by Heroku
+# EXPOSE 8501
 
 # Run the Streamlit app
 CMD ["streamlit", "run", "main_OAD.py"]
