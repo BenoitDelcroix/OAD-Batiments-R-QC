@@ -1,1 +1,1 @@
-web: streamlit run main_OAD.py
+web: sh setup.sh && streamlit run main_OAD.py
